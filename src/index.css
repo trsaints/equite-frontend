@@ -1,0 +1,25 @@
+@font-face {
+  font-family: "Kufi";
+  src: url("../public/Reem_Kufi_Fun/ReemKufiFun-VariableFont_wght.ttf");
+}
+
+* {
+  font-family: "Kufi";
+}
+
+body {
+  background-color: #222;
+  color: white;
+}
+
+a {
+  color: rgb(202, 41, 103);
+}
+
+ul, menu, nav {
+  list-style: none;
+}
+
+a, summary {
+  cursor: pointer;
+}
